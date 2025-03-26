@@ -13,7 +13,7 @@ Multi-Task Learning: Implicit emotional information is introduced via multi-task
 Improved Performance: Preliminary experiments on the IEMOCAP dataset show improved accuracy with the proposed method. The unweighted accuracy (UA) increased by 2.44%, and the weighted accuracy (WA) increased by 3.18% compared to previous methods.
 
 # Dataset
-The method is evaluated on the Interactive Emotional Dyadic Motion Capture (IEMOCAP) dataset, which contains a collection of emotionally expressive speech recordings. You can find more information about the IEMOCAP dataset here.
+The method is evaluated on the Interactive Emotional Dyadic Motion Capture (IEMOCAP) dataset, which contains a collection of emotionally expressive speech recordings.
 
 # Requirements
 To run this project, you need to install the following dependencies:
